@@ -23,3 +23,11 @@
 - [iterable 객체](https://pong-dang.notion.site/iterable-95aafaf1a74f4d3c9f7689db63b4c567)
 - [맵과 셋](https://pong-dang.notion.site/e07d672a72974175965cb531b121d9ea)
 - [Object.keys, values, entries](https://pong-dang.notion.site/Object-keys-values-entries-4be41bd6669a4d9a82d5858476de6a37)
+- [구조 분해 할당](https://pong-dang.notion.site/25287ca2131141bbafff2a89d0d17fea)
+- [Date 객체와 날짜](https://pong-dang.notion.site/Date-7b16b081a5444fd3958e36f993e94649)
+- [JSON과 메서드](https://pong-dang.notion.site/JSON-2a4e0d3992f14791a1b6f5c8d4daf4f3)
+
+## 함수 심화학습
+- [재귀와 스택](https://pong-dang.notion.site/fc35109687954799962596027d8c9b10)
+- [나머지 매개변수와 스프레드 문법](https://pong-dang.notion.site/667569e2078648a1b2b8e7dbcf33a14b)
+- [변수의 유효범위와 클로저](https://pong-dang.notion.site/7f37c8f57e944301a594c2e1ebb99ce2)

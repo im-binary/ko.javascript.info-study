@@ -31,3 +31,13 @@
 - [재귀와 스택](https://pong-dang.notion.site/fc35109687954799962596027d8c9b10)
 - [나머지 매개변수와 스프레드 문법](https://pong-dang.notion.site/667569e2078648a1b2b8e7dbcf33a14b)
 - [변수의 유효범위와 클로저](https://pong-dang.notion.site/7f37c8f57e944301a594c2e1ebb99ce2)
+- [오래된 'var'](https://pong-dang.notion.site/var-681bd50b0de94d0fa4557f75b4f8aa9a)
+- [전역객체](https://pong-dang.notion.site/bc1dc2672a9f46769ccba0d33211ed76)
+- [객체로서의 함수와 기명함수 표현식](https://pong-dang.notion.site/b630cb9eeebb41a7b95bef7766cebe16)
+- [new Function  문법](https://pong-dang.notion.site/new-Function-5ebf0a75cbcf4cf5be757e9b8eba2f3b)
+- [setTimeout과 setInterval을 이용한 호출 스케줄링](https://pong-dang.notion.site/setTimeout-setInterval-2962b1cbe75c47b3af3c8016c345bced)
+- [함수 바인딩](https://pong-dang.notion.site/df1826b3503448b690574c642d70f4cc)
+- [화살표 함수 다시 살펴보기](https://pong-dang.notion.site/05f4d5f0876c48e285cfa647266404d2)
+
+## 에러 핸들링
+- [‘try...catch’ 와 에러 핸들링](https://pong-dang.notion.site/try-catch-b5cf6c16f8b84975a03af5529dc09053)

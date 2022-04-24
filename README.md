@@ -41,3 +41,8 @@
 
 ## 에러 핸들링
 - [‘try...catch’ 와 에러 핸들링](https://pong-dang.notion.site/try-catch-b5cf6c16f8b84975a03af5529dc09053)
+- [커스텀 에러와 에러 확장](https://pong-dang.notion.site/0f50b359d18d4150b9aa9346f98c6672)
+
+## 프라미스와 async await
+- [콜백](https://pong-dang.notion.site/e8dcb6e530284ee1a6b77f453eb58cab)
+- [프라미스](https://pong-dang.notion.site/eb3f6690dc274b85add4da52d5a1733b)

@@ -46,3 +46,5 @@
 ## 프라미스와 async await
 - [콜백](https://pong-dang.notion.site/e8dcb6e530284ee1a6b77f453eb58cab)
 - [프라미스](https://pong-dang.notion.site/eb3f6690dc274b85add4da52d5a1733b)
+- [프라미스 체이닝](https://pong-dang.notion.site/5ae8397d5124479aa89d4d2febbf4c41)
+- [프라미스와 에러 핸들링](https://pong-dang.notion.site/1d2a5ee20ba041318e12f82651281a73)

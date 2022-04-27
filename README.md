@@ -48,3 +48,5 @@
 - [프라미스](https://pong-dang.notion.site/eb3f6690dc274b85add4da52d5a1733b)
 - [프라미스 체이닝](https://pong-dang.notion.site/5ae8397d5124479aa89d4d2febbf4c41)
 - [프라미스와 에러 핸들링](https://pong-dang.notion.site/1d2a5ee20ba041318e12f82651281a73)
+- [프라미스와 API](https://pong-dang.notion.site/API-bd0c02707fea433ea823cee499ad134c)
+- [프라미스화](https://pong-dang.notion.site/d9c0104f38b649b881998c59c91bffcf)

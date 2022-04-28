@@ -50,3 +50,5 @@
 - [프라미스와 에러 핸들링](https://pong-dang.notion.site/1d2a5ee20ba041318e12f82651281a73)
 - [프라미스와 API](https://pong-dang.notion.site/API-bd0c02707fea433ea823cee499ad134c)
 - [프라미스화](https://pong-dang.notion.site/d9c0104f38b649b881998c59c91bffcf)
+- [마이크로태스크](https://pong-dang.notion.site/9fff6fbba6f14b1aa9a1be62b76c7bfb)
+- [async와 await](https://pong-dang.notion.site/async-await-c70b47cb0b764eb0966c16f133a981ad)

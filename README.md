@@ -52,3 +52,7 @@
 - [프라미스화](https://pong-dang.notion.site/d9c0104f38b649b881998c59c91bffcf)
 - [마이크로태스크](https://pong-dang.notion.site/9fff6fbba6f14b1aa9a1be62b76c7bfb)
 - [async와 await](https://pong-dang.notion.site/async-await-c70b47cb0b764eb0966c16f133a981ad)
+
+## 제너레이터와 비동기 이터레이션
+- [제너레이터](https://pong-dang.notion.site/8e11da7cd9af4cb8ba0d557c8cd32956)
+

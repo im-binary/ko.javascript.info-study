@@ -55,4 +55,4 @@
 
 ## 제너레이터와 비동기 이터레이션
 - [제너레이터](https://pong-dang.notion.site/8e11da7cd9af4cb8ba0d557c8cd32956)
-
+- [async 이터레이터와 제너레이터](https://pong-dang.notion.site/async-1f1c7b3a1c0d48dc8d9decafe51c56c5)
